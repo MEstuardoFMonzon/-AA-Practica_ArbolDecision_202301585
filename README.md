@@ -9,7 +9,7 @@
 
 ## 📋 Información del Estudiante
 
-- **Nombre:** Juan Carlos Pérez
+- **Nombre:** Miguel Estuardo Fuentes Monzon
 - **Carné:** 202301585
 - **Fecha:** 15/11/2025
 
